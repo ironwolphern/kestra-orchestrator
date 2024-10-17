@@ -1,4 +1,4 @@
-# Contributing to the template-ansible
+# Contributing to the Kestra Orchestrator docker-compose
 
 Testers welcome!
 
